@@ -79,9 +79,11 @@
               tools:node="replace"
 
           >
-              <cache-path
-                      name="attachments"
-                      path="com.smartadserver.android.library.transparencyreport/" />
+              <paths xmlns:tools="http://schemas.android.com/tools">
+                  <cache-path
+                          name="attachments"
+                          path="com.smartadserver.android.library.transparencyreport/" />
+              </paths>
               <meta-data
                   android:name="android.support.FILE_PROVIDER_PATHS"
                   android:resource="@xml/provider_paths"/>
