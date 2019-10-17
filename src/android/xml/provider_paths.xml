@@ -16,12 +16,9 @@
   under the License.
 -->
 
-<paths xmlns:android="http://schemas.android.com/apk/res/android">
+<paths xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
     <external-path name="external_files" path="."/>
-</paths>
-
-<paths xmlns:tools="http://schemas.android.com/tools">
-<cache-path
-        name="attachments"
-        path="com.smartadserver.android.library.transparencyreport/" />
+    <cache-path
+            name="attachments"
+            path="com.smartadserver.android.library.transparencyreport/" />
 </paths>

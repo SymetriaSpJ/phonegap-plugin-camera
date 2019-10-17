@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b69dd7c6-e52b-4f0e-8a96-2efafc14f406" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/plugin.xml" afterPath="$PROJECT_DIR$/plugin.xml" />
       <change beforePath="$PROJECT_DIR$/src/android/xml/provider_paths.xml" afterPath="$PROJECT_DIR$/src/android/xml/provider_paths.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="81" column="24" lean-forward="true" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
+            <state relative-caret-position="175">
+              <caret line="83" column="58" lean-forward="true" selection-start-line="83" selection-start-column="58" selection-end-line="83" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -27,8 +26,8 @@
       <file leaf-file-name="provider_paths.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/android/xml/provider_paths.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="279">
+              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -42,6 +41,8 @@
       <find>&lt;path</find>
       <find>&lt;paths</find>
       <find>path</find>
+      <find>provider_paths</find>
+      <find>FILE_PROVI</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -92,6 +93,24 @@
             <path>
               <item name="phonegap-plugin-camera" type="b2602c69:ProjectViewProjectNode" />
               <item name="phonegap-plugin-camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phonegap-plugin-camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phonegap-plugin-camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phonegap-plugin-camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phonegap-plugin-camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="android" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phonegap-plugin-camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phonegap-plugin-camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="android" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="xml" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -167,16 +186,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/android/xml/provider_paths.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="279">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="81" column="24" lean-forward="true" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
+        <state relative-caret-position="175">
+          <caret line="83" column="58" lean-forward="true" selection-start-line="83" selection-start-column="58" selection-end-line="83" selection-end-column="58" />
           <folding />
         </state>
       </provider>
